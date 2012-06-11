@@ -18,7 +18,7 @@ import java.util.HashMap;
 
 /**
  * Created by IntelliJ IDEA.
- * User: jclin
+ * User: morven@livemail.tw
  * Date: 2/14/12
  * Time: 9:15 PM
  * To change this template use File | Settings | File Templates.

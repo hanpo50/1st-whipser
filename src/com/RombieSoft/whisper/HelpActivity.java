@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 /**
  * Created by IntelliJ IDEA.
- * User: jclin
+ * User: morven@livemail.tw
  * Date: 2/15/12
  * Time: 10:04 PM
  * To change this template use File | Settings | File Templates.

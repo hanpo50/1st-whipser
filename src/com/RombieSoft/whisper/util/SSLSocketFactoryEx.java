@@ -12,7 +12,7 @@ import java.security.*;
 
 /**
  * Created by IntelliJ IDEA.
- * User: jclin
+ * User: morven@livemail.tw
  * Date: 3/20/12
  * Time: 9:48 PM
  * To change this template use File | Settings | File Templates.

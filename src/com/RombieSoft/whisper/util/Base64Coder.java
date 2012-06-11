@@ -2,7 +2,7 @@ package com.RombieSoft.whisper.util;
 
 /**
  * Created by IntelliJ IDEA.
- * User: jclin
+ * User: morven@livemail.tw
  * Date: 2/17/12
  * Time: 11:48 PM
  * To change this template use File | Settings | File Templates.

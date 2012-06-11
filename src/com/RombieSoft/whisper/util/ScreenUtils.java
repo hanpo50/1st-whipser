@@ -6,7 +6,7 @@ import android.view.WindowManager;
 
 /**
  * Created by IntelliJ IDEA.
- * User: jclin
+ * User: morven@livemail.tw
  * Date: 3/18/12
  * Time: 11:12 AM
  * To change this template use File | Settings | File Templates.

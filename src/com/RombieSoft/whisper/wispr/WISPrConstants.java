@@ -2,7 +2,7 @@ package com.RombieSoft.whisper.wispr;
 
 /**
  * Created by IntelliJ IDEA.
- * User: jclin
+ * User: morven@livemail.tw
  * Date: 2/16/12
  * Time: 7:49 PM
  * To change this template use File | Settings | File Templates.

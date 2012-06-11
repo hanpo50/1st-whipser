@@ -20,7 +20,7 @@ import com.RombieSoft.whisper.wispr.*;
 
 /**
  * Created by IntelliJ IDEA.
- * User: jclin
+ * User: morven@livemail.tw
  * Date: 2/16/12
  * Time: 8:37 PM
  * To change this template use File | Settings | File Templates.
