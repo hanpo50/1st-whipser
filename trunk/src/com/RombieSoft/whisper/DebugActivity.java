@@ -10,7 +10,7 @@ import com.RombieSoft.whisper.util.HttpUtils;
 
 /**
  * Created by IntelliJ IDEA.
- * User: jclin
+ * User: morven@livemail.tw
  * Date: 2/24/12
  * Time: 8:20 AM
  * To change this template use File | Settings | File Templates.

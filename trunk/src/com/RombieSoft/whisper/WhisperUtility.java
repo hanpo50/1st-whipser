@@ -16,7 +16,7 @@ import com.RombieSoft.whisper.service.WISPrLoginService;
 
 /**
  * Created by IntelliJ IDEA.
- * User: jclin
+ * User: morven@livemail.tw
  * Date: 2/17/12
  * Time: 8:24 PM
  * To change this template use File | Settings | File Templates.
