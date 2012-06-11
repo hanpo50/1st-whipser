@@ -64,7 +64,7 @@ public class ServiceItemList {
         try {
             byte[] bytes = Base64Coder.decode(s);
             for (int i=0; i < bytes.length; i++ ) {
-                bytes[i] += (0x1b-i);
+                bytes[i] += (Constants.key -i);
             }
             return new String(bytes);
         }
